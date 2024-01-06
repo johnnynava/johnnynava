@@ -17,7 +17,7 @@ ESLint | Prettier | Linux | Debugging
 • Passionate and eager to learn new things 🔥
 
 ## About Me
-Detail-oriented and passionate Front-End Developer with 5 years of experience in the tech industry as a Network Engineer. Aiming to transition to a full-time Front-End Developer job which will allow me to use my programming and debugging skills to tackle challenges that will provide value to customers and my employer.
+Passionate and detail-oriented Front-End Developer with 5 years of experience in the tech industry as a Network Engineer. Aiming to transition to a full-time Front-End Developer job which will allow me to use my programming and debugging skills to tackle challenges that will provide value to customers and my employer.
 <br>
 <br>
 Some of my hobbies outside of web development include:
