@@ -40,6 +40,8 @@ Some of my hobbies outside of web development include:
 • Redux
 <br>
 • React Native
+<br>
+• MongoDB
 
 ## Get in Touch
 • My Email: johnnava@zoho.com
