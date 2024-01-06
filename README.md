@@ -5,7 +5,7 @@ React.js | Javascript | CSS | HTML
 <br>
 Test-Driven Development | React Testing Library | Jest | Vitest
 <br>
-Webpack | Vite | APIs
+Webpack | Vite | Git | npm | APIs
 <br>
 ESLint | Prettier | Linux | Debugging
 
