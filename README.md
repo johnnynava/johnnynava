@@ -40,3 +40,10 @@ Some of my hobbies outside of web development include:
 • Redux
 <br>
 • React Native
+
+## Get in Touch
+• My Email: johnnava@zoho.com
+<br>
+• [LinkedIn](https://www.linkedin.com/in/johnnynavadev/)
+<br>
+• [My Site](https://www.johnnynava.dev)
