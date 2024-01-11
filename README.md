@@ -18,17 +18,6 @@ ESLint | Prettier | Linux | Debugging
 
 ## About Me
 Passionate and detail-oriented Front-End Developer with 5 years of experience in the tech industry as a Network Engineer. Aiming to transition to a full-time Front-End Developer job that will allow me to use my programming and debugging skills to tackle challenges that will provide value to customers and my employer.
-<br>
-<br>
-Some of my hobbies outside of web development include:
-<br>
-• Cinema 📽️
-<br>
-• Music 🎶
-<br>
-• Working out 🏋🏻‍♂️
-<br>
-• Playing Super Smash Bros. Melee with my friends 🎮
 
 ## Some of the Things I'm Interested in Learning Include
 • Typescript
