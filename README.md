@@ -7,7 +7,7 @@ Test-Driven Development | React Testing Library | Jest | Vitest
 <br>
 Webpack | Vite | Git | npm | APIs
 <br>
-ESLint | Prettier | Linux | Debugging
+ESLint | Prettier | Sass | Linux | Debugging
 
 ## My Values
 • Empathy and Kindness 💙
