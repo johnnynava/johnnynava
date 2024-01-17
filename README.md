@@ -33,6 +33,8 @@ Passionate and detail-oriented Front-End Developer with 5 years of experience in
 • Three.js
 <br>
 • SQL
+<br>
+• PHP
 
 ## Get in Touch
 • My Email: johnnava@zoho.com
