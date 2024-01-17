@@ -32,8 +32,6 @@ Passionate and detail-oriented Front-End Developer with 5 years of experience in
 <br>
 • Three.js
 <br>
-• PHP
-<br>
 • SQL
 
 ## Get in Touch
