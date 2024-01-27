@@ -22,13 +22,13 @@ Passionate and detail-oriented Front-End Developer with 5 years of experience in
 ## Some of the Things I'm Interested in Learning Include
 • Node.js
 <br>
+• MongoDB
+<br>
 • GraphQL
 <br>
 • Redux
 <br>
 • React Native
-<br>
-• MongoDB
 <br>
 • Three.js
 <br>
