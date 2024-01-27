@@ -28,13 +28,13 @@ Passionate and detail-oriented Front-End Developer with 5 years of experience in
 <br>
 • Redux
 <br>
-• React Native
-<br>
 • Three.js
 <br>
 • SQL
 <br>
 • PHP
+<br>
+• React Native
 
 ## Get in Touch
 • My Email: johnnava@zoho.com
