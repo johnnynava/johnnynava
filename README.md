@@ -8,6 +8,8 @@ Test-Driven Development | React Testing Library | Jest | Vitest
 Webpack | Vite | Git | npm | APIs
 <br>
 ESLint | Prettier | Sass | Linux | Debugging
+<br>
+Three.js | Python
 
 ## My Values
 • Empathy and Kindness 💙
@@ -28,13 +30,13 @@ Passionate and detail-oriented Front-End Developer with 5 years of experience in
 <br>
 • Redux
 <br>
-• Three.js
-<br>
 • SQL
 <br>
 • PHP
 <br>
 • React Native
+<br>
+• Go
 
 ## Get in Touch
 • My Email: johnnava@zoho.com
