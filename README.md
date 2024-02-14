@@ -7,9 +7,9 @@ Test-Driven Development | React Testing Library | Jest | Vitest
 <br>
 Webpack | Vite | Git | npm | APIs
 <br>
-ESLint | Prettier | Sass | Linux | Debugging
+ESLint | Prettier | Sass | Linux | Debugging | jQuery
 <br>
-Three.js | Python
+Three.js | Python 
 
 ## My Values
 • Empathy and Kindness 💙
